@@ -1,0 +1,20 @@
+.flex-container{
+	border: 10px solid skyblue;
+	margin: 50px 0;
+	display: flex;
+}
+
+.flex-item{
+	width: 100px;
+	height: 100px;
+	background: #00BBC3;
+	margin: 10px;
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+}
+
+.item-1{
+	flex-basis: 300px;
+}
+

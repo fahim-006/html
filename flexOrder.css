@@ -1,0 +1,18 @@
+.flex-container{
+	border: 10px solid skyblue;
+	margin: 50px 0;
+	display: flex;
+	height: 360px;
+	align-items: flex-start;
+}
+
+.flex-item{
+	width: 100px;
+	height: 100px;
+	background: #00BBC3;
+	margin: 10px;
+}
+
+.item-3{
+	order: -1;
+}
